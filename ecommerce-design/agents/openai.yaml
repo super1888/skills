@@ -1,0 +1,3 @@
+display_name: E-commerce Design
+short_description: Design robust commerce domains, workflows, APIs, and tables.
+default_prompt: Use the ecommerce-design skill to design an implementation-ready e-commerce solution with domain boundaries, state machines, APIs, DDL, concurrency guards, and test checklist.
