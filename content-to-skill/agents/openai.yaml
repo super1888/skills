@@ -1,0 +1,3 @@
+﻿display_name: Content to Skill
+short_description: Distill articles, blogs, and docs into complete usable Codex Skills.
+default_prompt: Use the content-to-skill skill to convert the provided technical source material into a complete skill with concise SKILL.md, traceable references, stable output format, and quality checks.

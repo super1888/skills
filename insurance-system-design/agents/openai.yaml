@@ -1,0 +1,3 @@
+﻿display_name: Insurance System Design
+short_description: Design policy, claim, premium, channel, billing, and risk workflows for insurance systems.
+default_prompt: Use the insurance-system-design skill to create an implementation-ready insurance system design with domain boundaries, state machines, APIs, storage, insurer integration, risk controls, and validation checklist.
